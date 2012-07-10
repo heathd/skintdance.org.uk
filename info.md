@@ -6,7 +6,7 @@ title: About Skint
 		
 Skint is a weekend of international music and dance, held each year in Derbyshire, England. It is open to all, regardless of age or experience. You just need an interest in European folk music and dance and a willingness to get involved!
 
-During the day there are workshops for dancers and musicians, suitable for both complete beginners and the more experienced. The bals in the evening feature music and dancing from a variety of European traditions, much of which will have been taught earlier in the day.
+During the day there are workshops for dancers and musicians, suitable for both complete beginners and the more experienced. The bals in the evening feature music and dancing from a variety of European traditions, (e.g. France, Scandinavia, England, Eastern Europe) much of which will have been taught earlier in the day.
 		
 It's a low-cost, small, easy-going and friendly festival in a beautiful part of the world!
 
