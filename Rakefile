@@ -14,20 +14,6 @@ namespace :vlad do
   task :update_symlinks do
     # nothing
   end
-
-  # Setup the Jekyll tasks to perform the generation of the site
-  namespace :jekyll do
-    remote_task :generate do
-      # navigate to where the site version was deployed to
-      goto_app_root = "cd #{release_path}"
-      
-      # run the jekyll site generation
-      jekyll = "#{bundle_cmd} exec jekyll --no-auto"
-
-      # run the commands on the server
-      run "#{goto_app_root} && #{jekyll}"
-    end
-  end
 end
 
 # The 'deploy' task brings it all together under one command

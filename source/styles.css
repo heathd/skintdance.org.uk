@@ -19,11 +19,14 @@ body.card div#content p {
   font-size: 110%;
 }
 
-.masthead {
+.masthead, .footer {
   padding: 0 10px;
   background-color: #E2EE00; 
   margin: 0 auto; 
   width: 800px; 
+}
+.footer {
+  padding: 1em 10px;
 }
 h2.alert, h2.alert a{
   padding-bottom: 1em;
