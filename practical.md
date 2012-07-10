@@ -25,7 +25,7 @@ Included meals are from Friday evening until Sunday lunchtime. Meals are vegetar
 		
 Please bring your own drinks - water, juice, tea and coffee will be provided.
 
-If you have a ticket with no meals provided, you may bring your own food and eat in the hall but you will not be able to use the kitchen for preparing it, due to space constraints. There are also 3 pubs in the village.
+If you have a day or evening ticket with no meals provided, you may bring your own food and eat in the hall but you will not be able to use the kitchen for preparing it, due to space constraints. There are also 3 pubs in the village.
 
 ## How much does it cost?
 
