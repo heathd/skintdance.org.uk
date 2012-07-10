@@ -65,6 +65,9 @@ body.page div#content {
 .todo {
   background-color: #ffff00;
 }
+a.big {
+  font-size: 180%;
+}
 
 /* MailChimp Form Embed Code - Slim - 08/17/2011 */
 #mc_embed_signup{
