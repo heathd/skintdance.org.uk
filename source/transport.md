@@ -26,7 +26,7 @@ The nearest stations are Chesterfield, Matlock and Sheffield.
 ## Buses
 
 There are buses to Ashover until early evening on Friday and later to Kelstedge (5 mins drive from Ashover) from Sheffield and Chesterfield.
-www.travelineeastmidlands.co.uk
+[Traveline East Midlands](http://.travelineeastmidlands.co.uk)
 
 ## Station pick-ups
 
