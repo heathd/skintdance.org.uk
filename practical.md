@@ -6,9 +6,9 @@ title: Practical Information
 
 ## Accommodation
 		
-'Indoor camping' means sleeping bags and mattresses on the floor in the hall. You'll need to bring a sleeping bag, mat and pillow. If you can't get hold of these, let us know, we might be able to help. Ear plugs are also a good idea, as music and chatter travels!
+###'Indoor camping' means sleeping bags and mattresses on the floor in the hall. You'll need to bring a sleeping bag, mat and pillow. If you can't get hold of these, let us know, we might be able to help. Ear plugs are also a good idea, as music and chatter travels!
 
-## Camping
+### Camping
 
 For the hardy among you, there is a campsite close to the hall. 
 £5/unit (tent or caravan) per night. Payment will be collected on arrival, but please tick the relevant box on the booking form, so we have a good estimate of numbers.
