@@ -4,6 +4,7 @@ require 'hoe/rake'
 require "vlad"
 require "rake/remote_task"
 Vlad.load :scm => "git", :app => nil, :web => nil, :config => "config/deploy.rb"
+set :bundle_cmd, "source /usr/local/rvm/scripts/rvm && bundle"
 
 namespace :vlad do
   # Vlad by default has an update_symlinks task used for Rails which we do
@@ -21,7 +22,7 @@ namespace :vlad do
       goto_app_root = "cd #{release_path}"
       
       # run the jekyll site generation
-      jekyll = "bundle exec jekyll --no-auto"
+      jekyll = "#{bundle_cmd} exec jekyll --no-auto"
 
       # run the commands on the server
       run "#{goto_app_root} && #{jekyll}"

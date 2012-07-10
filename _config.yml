@@ -1,2 +1,2 @@
-source:      ./source
+source: ./source
 destination: ./_site
