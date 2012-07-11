@@ -19,12 +19,12 @@ title: Programme
 * Evening Bal
 		
 
-## Sunday	
+## Sunday
+
 * Workshops
 * Lunch
 * Afternoon bal
 
-		
 The bals will feature a mix of music and dance traditions, from different individuals and groups.
 
 Of course, after the 'official' evening bals are over, the music and dancing will go on until the early hours!
