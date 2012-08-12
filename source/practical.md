@@ -10,7 +10,7 @@ title: Practical Information
 Included in the full weekend + accommodation ticket. It means sleeping bags and mattresses on the floor in the hall. You'll need to bring a sleeping bag, mat and pillow. If you can't get hold of these, let us know, we might be able to help. Ear plugs are also a good idea, as music and chatter travels!
 
 ### Outdoor camping
-For the hardy among you, there is a campsite close to the hall. 
+For the hardy among you, there is camping available close to the hall. 
 £5/unit (tent or caravan) per night. Payment will be collected on arrival, but please tick the relevant box on the booking form, so we have a good estimate of numbers.
 	
 There are also B&Bs and self-catering cottages nearby.
@@ -31,10 +31,10 @@ If you have a day or evening ticket with no meals provided, you may bring your o
 
 We aim to keep the tickets prices as low as possible, so everyone can participate.
 
-* Full weekend, including accommodation (indoor camping) and all meals - £30
-* Full weekend, including all meals - £20
+* Full weekend, including accommodation (indoor camping) and all meals - £30 (£25 concs)
+* Full weekend, including all meals - £20 (£18 concs)
 
-Day tickets without meals:
+Day tickets without meals (available to book soon):
 
 * Friday evening 8pm till late (no meal) - £5
 * Saturday day & evening (no meals) - £10
